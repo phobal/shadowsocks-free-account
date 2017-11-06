@@ -1,0 +1,14 @@
+{
+  "name": "ssspider",
+  "version": "0.0.1",
+  "description": "爬取 ss.weirch.com 上的免费账号",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "phobal",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^3.8.0"
+  }
+}
