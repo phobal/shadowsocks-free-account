@@ -12,6 +12,7 @@ class SS {
       .then((res) => {
         const text = res.text;
         const result = JSON.parse(text).data;
+        console.log('开始更新......');
         this.map(result);
       })
       .catch(err => {
@@ -47,7 +48,9 @@ class SS {
     fs.writeFile('./ss.json', JSON.stringify(data), (err) => {
       if (err) {
         console.log(err);
+        return;
       }
+      console.log('更新成功！！');
     });
   }
 }
