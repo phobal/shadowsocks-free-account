@@ -23,7 +23,7 @@ npm i
 * 运行
 
 ``` bash
-node index.js
+node app.js
 ```
 
 * 安装 SS 客户端
