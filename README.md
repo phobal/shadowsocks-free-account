@@ -1,6 +1,8 @@
 ### ShadowSockets 爬虫
 
-爬取 <https://ss.weirch.com/> 网站上更新的免费 SS 账号，将其中评分为 100 分的抓取出来写进 ss 配置文件中，然后通过 ss 客户端导入配置文件
+爬取 <https://ss.weirch.com/> 网站上更新的免费 SS 账号，将其中评分为 100 分的抓取出来写进 ss 配置文件中，然后通过 ss 客户端导入配置文件  
+
+> 在线下载地址：<http://47.93.48.236:3001>
 
 ### 使用
 
@@ -21,7 +23,7 @@ npm i
 * 运行
 
 ``` bash
-node index.js
+node app.js
 ```
 
 * 安装 SS 客户端
