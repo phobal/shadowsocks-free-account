@@ -1,4 +1,4 @@
-### ShadowSockets 爬虫
+### ShadowSocks 爬虫
 
 爬取 <https://free-ss.site/> 网站上更新的免费 SS 账号，将其中评分为 100 分的抓取出来写进 ss 配置文件中，然后通过 ss 客户端导入配置文件  
 
