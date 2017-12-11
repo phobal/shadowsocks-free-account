@@ -1,5 +1,6 @@
 const SS = require('./ss');
+const url = require('./url');
 
 const now = Date.parse(new Date());
 
-new SS({ url: `https://ss.weirch.com/ss.php?_=${now}` });
+new SS({ url: `${url}?_=${now}` });

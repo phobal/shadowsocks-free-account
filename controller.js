@@ -13,7 +13,7 @@ app.all('*', function(req, res, next) {
 
 app.set("view options", { layout: true });
 
-app.use(express.static(__dirname + '/dist'));
+app.use(express.static(__dirname + '/docs'));
 
 app.get('/', (req, res) => {
     res.render('index.html');
