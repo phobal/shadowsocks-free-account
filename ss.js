@@ -45,7 +45,9 @@ module.exports = class SS {
     this.save(configs);
   }
   save(configs) {
-    fs.unlinkSync('./ss.json');
+    if (fs.existsSync('./ss.json')) {
+      fs.unlinkSync('./ss.json');
+    }
     const data = Object.assign({}, defaultConfig, { configs });
     fs.writeFile('./ss.json', JSON.stringify(data), (err) => {
       if (err) {
