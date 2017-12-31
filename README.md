@@ -8,7 +8,7 @@
 
 ### 使用
 
-需要 nodejs 环境，node 版本大于等于 v7.0.0, 步骤如下
+需要 nodejs 环境，node 版本大于等于 v7.6.0, 因为代码中使用了 `async` `await` 语法, 步骤如下
 
 * clone 项目
 
@@ -41,3 +41,8 @@ done!
 接下来就可以愉快的玩耍了
 
 > 部分账号大概每隔6小时变1次，重新输入最新的账号即可。另外部分账号的IP已经被墙，发现不能使用请换其他账号
+
+### Change Logs
+
+* `2017.11.07` 使用 [superagent](https://github.com/visionmedia/superagent) 请求源网站数据接口
+* `2017.12.31` 使用 [puppeteer](https://github.com/GoogleChrome/puppeteer) 爬取源网站页面数据 
