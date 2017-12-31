@@ -1,5 +1,5 @@
-const SS = require('./ss');
-const url = require('./url');
+const SS = require('./src/ss');
+const url = require('./src/url');
 
 const now = Date.parse(new Date());
 

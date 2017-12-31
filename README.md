@@ -34,7 +34,7 @@ node app.js
 
 * 导入配置文件
 
-![](./1.jpg)
+![](./assets/1.jpg)
 
 选择通过上一步执行成功生成的 ss.json 文件并导入  
 done!
