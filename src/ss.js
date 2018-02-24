@@ -1,4 +1,3 @@
-const superagent = require('superagent');
 const fs = require('fs');
 const run = require('./puppeteer');
 const defaultConfig = require('./default');
