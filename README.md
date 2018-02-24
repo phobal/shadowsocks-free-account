@@ -46,3 +46,9 @@ done!
 
 * `2017.11.07` 使用 [superagent](https://github.com/visionmedia/superagent) 请求源网站数据接口
 * `2017.12.31` 使用 [puppeteer](https://github.com/GoogleChrome/puppeteer) 爬取源网站页面数据 
+
+### 友情推荐
+
+如果你不会或者不想配置各种复杂的环境，推荐一个性价比超级高、速度还不错的加速服务  
+
+[地瓜游戏加速](https://www.diguass.top/aff.php?aff=429)
