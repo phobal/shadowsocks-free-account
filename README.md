@@ -53,4 +53,5 @@ done!
 
 如果你不会或者不想配置各种复杂的环境，推荐一个性价比超级高、速度还不错的加速服务  
 
+[墙裂](https://go.qianglie.cc/aff.php?aff=2189)
 [地瓜游戏加速](https://www.diguass.me/aff.php?aff=429)
