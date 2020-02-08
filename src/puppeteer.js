@@ -9,10 +9,10 @@ async function run(url) {
   const page = await browser.newPage();
   await page.goto(url);
   await page.waitForNavigation();
-  const resultSelector = '#ss tbody tr .sorting_1';
+  const resultSelector = '#tbss tbody tr';
   await page.waitForSelector(resultSelector);
   const result = await page.evaluate((resultSelector) => {
-    const rs = Array.from(document.querySelectorAll('#ss tbody tr td'));
+    const rs = Array.from(document.querySelectorAll('#tbss tbody tr td'));
     return rs.map(count => {
       return count.textContent.trim();
     })

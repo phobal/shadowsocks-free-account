@@ -23,7 +23,7 @@ app.get('/data', (req, res) => {
     res.send(readFile());
 });
 app.get('/download', (req, res) => {
-    const path = __dirname + './ss.json';
+    const path = __dirname + '/ss.json';
     res.download(path, 'ss.json');
 });
 

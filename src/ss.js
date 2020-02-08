@@ -35,7 +35,7 @@ module.exports = class SS {
         });
       }
     });
-    this.save(configs);
+    // this.save(configs);
   }
   save(configs) {
     if (fs.existsSync('./ss.json')) {
