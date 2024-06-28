@@ -52,6 +52,6 @@ done!
 
 【推荐】[我们向往的](https://wmsxwd-c.men/auth/register?code=phobal)
 
-[地瓜游戏加速](https://www.diguass.cc/aff.php?aff=429)  
+[地瓜游戏加速](https://www.dgss0614.xyz/#/register?code=a6uo8HzB)  
 
 [墙裂](https://go.qianglie.cc/aff.php?aff=2189)  
