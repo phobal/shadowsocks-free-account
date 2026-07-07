@@ -49,8 +49,8 @@ done!
 ### 友情推荐
 
 如果你不会或者不想配置各种复杂的环境，推荐一个性价比超级高、速度还不错的加速服务  
-
-【推荐】[我们向往的](https://wmsxwd-c.men/auth/register?code=phobal)
+【推荐】[蜂鸟云](https://nb.fnynb.com/#/?code=hGNl9i1o)  
+[我们所向往的](https://wmsxwd-c.men/auth/register?code=phobal)
 
 [地瓜游戏加速](https://www.dgss0614.xyz/#/register?code=a6uo8HzB)  
 
